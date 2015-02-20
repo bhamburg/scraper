@@ -1,0 +1,10 @@
+{
+  "name": "iLoveScraping",
+  "version": "0.0.1",
+  "description": "iLoveCoding.org homework for Learn Node JS in a Week: Day 6",
+  "url": "https://ilovecoding.org/courses/learn-node-js-in-a-week/scraper/";
+  "dependencies": {
+    "cheerio": "*",
+    "request": "*"
+  }
+}

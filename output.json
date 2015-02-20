@@ -1,0 +1,173 @@
+// sample output json prettified post-output
+[
+    {
+        "title": "Production Support Engineer * AWeber",
+        "location": " (Chalfont, PA)",
+        "link": "http://philadelphia.craigslist.org/eng/4897073536.html"
+    },
+    {
+        "title": "Full Stack Developer // Startup Leadership",
+        "location": "",
+        "link": "http://philadelphia.craigslist.org/eng/4895045157.html"
+    },
+    {
+        "title": "Additional coders/designers/admins for Philly startup",
+        "location": " (ne philly)",
+        "link": "http://philadelphia.craigslist.org/eng/4892926765.html"
+    },
+    {
+        "title": "Design Technology Specialist",
+        "location": " (Philadelphia, PA)",
+        "link": "http://philadelphia.craigslist.org/eng/4888827468.html"
+    },
+    {
+        "title": "Russian IT company is looking for Russian-speaking representative",
+        "location": "",
+        "link": "http://philadelphia.craigslist.org/eng/4888480873.html"
+    },
+    {
+        "title": "Senior Systems Engineer / Technical Producer",
+        "location": " (Philadelphia, PA)",
+        "link": "http://philadelphia.craigslist.org/eng/4883276281.html"
+    },
+    {
+        "title": "★ Junior Software Developer ★",
+        "location": " (Chester Springs)",
+        "link": "http://philadelphia.craigslist.org/eng/4880423396.html"
+    },
+    {
+        "title": "Lead Software Developer",
+        "location": " (Trevose, PA)",
+        "link": "http://philadelphia.craigslist.org/eng/4878537760.html"
+    },
+    {
+        "title": "Architect",
+        "location": " (Trevose, PA)",
+        "link": "http://philadelphia.craigslist.org/eng/4878506039.html"
+    },
+    {
+        "title": "Full Stack Software Developer",
+        "location": " (Philadelphia)",
+        "link": "http://philadelphia.craigslist.org/eng/4874582527.html"
+    },
+    {
+        "title": "Junior Data Steward",
+        "location": "",
+        "link": "http://philadelphia.craigslist.org/eng/4864206293.html"
+    },
+    {
+        "title": "Junior Front End Developer",
+        "location": " (Jenkintown)",
+        "link": "http://philadelphia.craigslist.org/eng/4859946124.html"
+    },
+    {
+        "title": "Technical Support Engineer - Linux/SQL/Bash",
+        "location": " (Wilmington, DE)",
+        "link": "http://delaware.craigslist.org/eng/4899078650.html"
+    },
+    {
+        "title": "Need quick cash after Valentine's Day?",
+        "location": " (Lehigh valley)",
+        "link": "http://allentown.craigslist.org/eng/4897931742.html"
+    },
+    {
+        "title": "Web Application Developer - Angular.js",
+        "location": " (allentown pa)",
+        "link": "http://allentown.craigslist.org/eng/4877696672.html"
+    },
+    {
+        "title": "Expert Website Maintenance",
+        "location": " (Cherry Hill, NJ)",
+        "link": "http://southjersey.craigslist.org/eng/4890321026.html"
+    },
+    {
+        "title": "Director of Technology",
+        "location": " (Princeton, NJ)",
+        "link": "http://cnj.craigslist.org/eng/4887161002.html"
+    },
+    {
+        "title": "Entry Level IT Systems Engineer",
+        "location": " (NYC & NJ)",
+        "link": "http://cnj.craigslist.org/eng/4886954431.html"
+    },
+    {
+        "title": "Fullstack Developer",
+        "location": " (Wilmington, DE)",
+        "link": "http://delaware.craigslist.org/eng/4873897825.html"
+    },
+    {
+        "title": "IT Whse System Support Technician",
+        "location": " (Nazareth PA)",
+        "link": "http://allentown.craigslist.org/eng/4877541945.html"
+    },
+    {
+        "title": "Web Developer",
+        "location": " (Hoboken, NJ)",
+        "link": "http://cnj.craigslist.org/eng/4875967909.html"
+    },
+    {
+        "title": "SEO/SEM",
+        "location": " (Broomall, PA)",
+        "link": "http://delaware.craigslist.org/eng/4874363604.html"
+    },
+    {
+        "title": "Principal Software Engineer, Cloud DVR",
+        "location": " (Philadelphia)",
+        "link": "http://lancaster.craigslist.org/eng/4869582217.html"
+    },
+    {
+        "title": "Technical Analyst",
+        "location": " (Matawan)",
+        "link": "http://cnj.craigslist.org/eng/4860371290.html"
+    },
+    {
+        "title": "Professional Website/Webmaster Needed",
+        "location": " (so.whitehall pa)",
+        "link": "http://allentown.craigslist.org/eng/4857198349.html"
+    },
+    {
+        "title": ".NET Web Developer / Programmer",
+        "location": " (Downtown Manhattan)",
+        "link": "http://cnj.craigslist.org/eng/4856692494.html"
+    },
+    {
+        "title": "work from home and earn cash",
+        "location": " (reading)",
+        "link": "http://reading.craigslist.org/eng/4852329773.html"
+    },
+    {
+        "title": "Information Systems Engineer",
+        "location": " (Denver PA)",
+        "link": "http://lancaster.craigslist.org/eng/4849461835.html"
+    },
+    {
+        "title": "Web Manager",
+        "location": " (bethlehem)",
+        "link": "http://allentown.craigslist.org/eng/4847969677.html"
+    },
+    {
+        "title": "Web Manager",
+        "location": " (Bethlehem)",
+        "link": "http://reading.craigslist.org/eng/4847968865.html"
+    },
+    {
+        "title": "Get paid to take surveys",
+        "location": "",
+        "link": "http://delaware.craigslist.org/eng/4845035709.html"
+    },
+    {
+        "title": "Senior Application Developer",
+        "location": " (Lancaster City)",
+        "link": "http://lancaster.craigslist.org/eng/4841249281.html"
+    },
+    {
+        "title": "Front End Developer",
+        "location": " (West Chester, PA)",
+        "link": "http://delaware.craigslist.org/eng/4839913575.html"
+    },
+    {
+        "title": "INTERNET WEB SITE PROGRAMER",
+        "location": " (Macungie)",
+        "link": "http://allentown.craigslist.org/eng/4835226556.html"
+    }
+]
